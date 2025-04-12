@@ -1,4 +1,4 @@
-# Chanity
+# Chainity
 UMHackathon Group twoplustwo
 
 [Figma Prototype Links:](https://www.figma.com/design/p6NTWA5bqAZSyhW9kHeBIR/UM-Hackathon-Prototype?node-id=15-3&t=cbbjg2kopkX2gFtk-1) 
